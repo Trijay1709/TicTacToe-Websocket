@@ -1,0 +1,1 @@
+export type CellValue = "empty" | "circle" | "cross";
